@@ -95,6 +95,8 @@ A detailed description of the model is available in Appendix A.
 
 ## Results and discussion
 
+<video preload="auto" controls="controls" src="video/CiVIsMe.webm" height="450"></video>
+
 The results of this model can be approached from two angles to assess the cooperative's impact on the territory: first, assessing its impact on the structure of the socio-economic fabric, and second, on the continuation of winegrowing on sloped terrain. In the first simulation, all the areas had the same characteristics (at the original location near the plots, which is determined randomly for each simulation). Following that, we qualified these results on the cooperatives’ impacts by showing that the impacts vary according to the characteristics of the regions. In fact, we distinguished two types of areas according to whether joining or leaving the cooperative (to experiment with working individually) was more or less frequent. We named these areas ‘risk averse’ and ‘risk prone’ because leaving the cooperative means taking an individual risk:1 depriving oneself, at least temporarily, of a collective safety net. 
 
 ** Table 1 **: Average of 40 simulations for each parameter 
